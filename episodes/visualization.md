@@ -155,7 +155,8 @@ Once it's healthy, you can access the visualizer at:
 
 The `ViewOnTethys.sh` script automates updating `ngiab_visualizer.json` and copying your model output into `~/ngiab_visualizer`.
 
-::: callout-keypoints
+::: keypoints
+
 ### Key points
 - `ViewOnTethys.sh` automates adding model outputs to `ngiab_visualizer.json` and syncing data to `~/ngiab_visualizer`.
 - To customize your setup, set environment variables and run the `awiciroh/tethys-ngiab` Docker image manually.
